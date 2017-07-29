@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+}
+.menu{
+    background-color: silver;
+    height: 300px;
+    margin-top: 180px;
+}
+.box1{
+    width: 350px;
+    height: 55px;
+    border: 1px solid silver;
+    margin-left: 70px;
+    margin-top: 90px;
+    background-color: silver;
+}
+.hamburger{
+    background-color: orangered;
+    padding: 11px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.bradimage{
+    width: 270px;
+    height: 52px;
+    margin-bottom: 20px;
+    margin-left: -5px;
+}
+.box2{
+    width: 800px;
+    height: 55px;
+    border: 1px solid silver;
+    margin-left: 70px;
+    margin-top: 20px;
+    background-color: white;
+}
+.bradimage1{
+    float: right;
+    margin-top: -35px;
+}
+.remove{
+    background-color: darkred;
+    padding: 11px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.main{
+    width: 450px;
+    margin-left: 60px;
+    margin-top: -35px;
+    padding-left: 20px;
+    color: orangered;
+    font-size: 12px;
+    word-spacing: 10px;
+}
+.search{
+    word-spacing: 6px;
+}
+.mybutton{
+    background-color: white;
+    border: none;
+}
